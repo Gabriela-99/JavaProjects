@@ -1,6 +1,7 @@
 package io.learnstuff.sample;
 
-
+import java.util.Arrays;
+import java.util.Scanner;
 
 public class SecondP {
 
@@ -18,6 +19,21 @@ public class SecondP {
 				//for (int i=0; i<numbers.length;i++) {
 					//System.out.println(names[i]+" se afla pe pozitia " +(i+1));
 				//}
+		//2. array from keyboard
+		
+				
+			/*	Scanner scanner= new Scanner (System.in);
+				System.out.print("How many numbers do you want to enter?");
+				 int length = scanner.nextInt();
+			      int [] myArray = new int[length];
+			      System.out.println("Enter the elements of the array:");
+
+			      for(int i=0; i<length; i++ ) {
+			         myArray[i] = scanner.nextInt();
+			      }
+
+			      System.out.println("You entered the numbers: "+Arrays.toString( myArray));
+		*/
 		
 		
 	}
