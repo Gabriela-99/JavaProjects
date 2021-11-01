@@ -1,6 +1,6 @@
 package io.learnstuff.sample;
 
-public class RandomClass {
+public class ArrayOperations2 {
 
 	public static void main(String[] args) {
 		// generate a random arrays of numbers and search for a specific one
